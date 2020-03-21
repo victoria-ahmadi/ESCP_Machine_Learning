@@ -1,5 +1,10 @@
 # ESCP_Machine_Learning
 
+This repository contains two assignments for ESCP's Machine Learning with Python Course: 
+
+1. Titanic - Survival Prediction 
+2. Retail - Prediction (description below) 
+
 Let us imagine that we are a company, specializing in online retail sales, with brand name
 athletic footwear and accessories (e.g., Nike, Adidas, Zalando, etc). To better serve our visitors,
 e.g., suggest them products that they might be interested in buying, we track all users’ activities
